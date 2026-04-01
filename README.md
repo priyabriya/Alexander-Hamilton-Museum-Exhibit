@@ -14,35 +14,8 @@ A museum-style website about Alexander Hamilton's life, writings, and the instit
 | `/timeline` | Full chronological timeline (8 events) |
 | `/audience` | Three entry routes for different visitor types |
 
----
 
-## Quality Commands
 
-```bash
-npm run typecheck      # TypeScript check
-npm run lint           # ESLint
-npm run test           # Vitest unit tests
-npm run format:check   # Prettier check
-npm run build          # Production build
-```
-
----
-
-## Deployment
-
-The site deploys automatically to GitHub Pages via `.github/workflows/deploy.yml` on every push to `main`.
-
-To enable GitHub Pages on your fork:
-1. Go to **Settings → Pages**
-2. Set **Source** to **GitHub Actions**
-
----
-
-## Content
-
-All content is managed in `lib/data.ts` as typed TypeScript. To update or add artifacts, timeline events, or audience cards, edit that file — no other files need to change.
-
----
 
 ## Sources
 
