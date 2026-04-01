@@ -1,4 +1,4 @@
-# Alexander Hamilton:Power of the Pen
+# Alexander Hamilton: Power of the Pen
 
 A museum-style website about Alexander Hamilton's life, writings, and the institutions he created. Built with Next.js 15, TypeScript, and Tailwind CSS v4.
 
@@ -13,8 +13,6 @@ A museum-style website about Alexander Hamilton's life, writings, and the instit
 | `/artifacts` | Full artifacts gallery with all 4 primary sources |
 | `/timeline` | Full chronological timeline (8 events) |
 | `/audience` | Three entry routes for different visitor types |
-
-
 
 
 ## Sources
