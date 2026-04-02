@@ -4,15 +4,11 @@ A museum-style website about Alexander Hamilton's life, writings, and the instit
 
 **Live site:** Deployed via GitHub Pages on every push to `main`.
 
+1. Orchestration Process
+This project was built using a structured AI orchestration workflow modeled on the reference repository kaw393939/nextjs_ai_orchestration_spec_sprint_process (Professor Keith Williams’ GitHub Repository). Rather than issuing vague prompts and accepting whatever emerged, the process treated the AI as a directed engineering instrument guided by explicit specifications and verified outputs at each step.
 
-## Pages
+Phases of the Project
 
-| Route | Description |
-|-------|-------------|
-| `/` | Homepage — Hero, About, Artifacts preview, Timeline preview, Audience |
-| `/artifacts` | Full artifacts gallery with all 4 primary sources |
-| `/timeline` | Full chronological timeline (8 events) |
-| `/audience` | Three entry routes for different visitor types |
 
 
 ## Sources
