@@ -1,16 +1,21 @@
 **Museum Topic**
+
 The exhibit is about Alexander Hamilton, but with a specific angle: the guy was basically a writing machine, and his words built actual institutions. Instead of a standard biography, everything runs through one lens — Hamilton as a writer. It starts with the Hurricane Letter he wrote at seventeen (the letter that got him shipped off to New York for school), moves through 51 Federalist Papers, the Report on Public Credit, and ends at The Grange, the only house he ever owned. The whole point is that his influence isn't abstract — it shows up every time someone uses a $10 bill or trades on a national exchange.
 
 **Design Style**
+
 The vibe is archival and serious without being stuffy. Dark backgrounds, serif fonts, lots of breathing room — it's supposed to feel like you're handling an old document, not scrolling through a textbook. The homepage hits you with three quick stats right away (51 Federalist Papers, 1790, $10 bill) so you get your bearings before reading a single paragraph. Navigation is deliberately simple — About, Artifacts, Timeline, Audience — because the goal was to move visitors through like a real gallery, not overwhelm them with options.
 
 **Archetype**
+
 The exhibit goes for the Sage archetype. It's not trying to capitalize on Hamilton's musical fame or make him into a celebrity founder. The tone is more like: "here are the primary sources, here's what they mean, go read them yourself." It treats visitors like intelligent people who can handle actual history, which tends to be more interesting anyway.
 
 **Cialdini Principle**
+
 The main one is Authority. The way that shows up is through constant grounding in real sources — National Archives, Library of Congress, NPS — and very specific historical details (exact paper counts, disputed birth years, exact dates). Nothing wishy-washy. The secondary principle is Social Proof, which comes through in the Audience section. Framing the exhibit around three different types of visitors — students, musical fans, finance nerds — sends the signal that lots of different people have found Hamilton worth caring about, which makes it easier for any one person to feel like they belong there.
 
 **AI Orchestration Process**
+
 Rather than just asking AI to "write a museum exhibit," the process broke it into distinct roles and ran them in sequence:
 
 Researcher: First pass was about figuring out which artifacts and moments actually mattered — specifically filtered through the "writing and institutions" lens, not just "important Hamilton things."
