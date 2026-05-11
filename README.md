@@ -1,3 +1,6 @@
+**The Website**
+https://priyabriya.github.io/Alexander-Hamilton-Museum-Exhibit
+
 **Museum Topic**
 
 The exhibit is about Alexander Hamilton, but with a specific angle: the guy was basically a writing machine, and his words built actual institutions. Instead of a standard biography, everything runs through one lens — Hamilton as a writer. It starts with the Hurricane Letter he wrote at seventeen (the letter that got him shipped off to New York for school), moves through 51 Federalist Papers, the Report on Public Credit, and ends at The Grange, the only house he ever owned. The whole point is that his influence isn't abstract — it shows up every time someone uses a $10 bill or trades on a national exchange.
